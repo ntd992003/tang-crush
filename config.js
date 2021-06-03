@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Hongggg',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Em yêu anhhhh <3',
+    reply: 'Em yêu anhhh <3',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Babii của tôi là số 1 !!.',
     btnAccept: 'Okiiiii lun <3',
